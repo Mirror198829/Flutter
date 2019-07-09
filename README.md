@@ -6,3 +6,7 @@ Flutter是谷歌移动UI框架，可快速在ios和Android上构建高质量的�
 * Web
 * Desktop
 * Embedded（嵌入窗口：例如ai眼镜）
+闲鱼app使用的flutter进行开发。
+## Flutter 与 React Native区别
+React Native是使用 类React语言开发 通过Native做转换运行在ios/Andriod系统，RN的性能不是特别好，例如环境搭建需要很多时间，在处理复杂场景时，体验不友好。  
+Flutter性能较好
