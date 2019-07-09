@@ -14,3 +14,6 @@ Flutter性能较好。
 * 多平台支持
 ## Flutter使用的什么语言进行开发
 Dart作为开发框架和widget的语言，底层图形框架和Dart虚拟机在C/C++中实现
+## 学习Flutter需要具备的哪些必备知识？
+* Dart语言基础
+* JAVA和Andriod开发经验 非必须
