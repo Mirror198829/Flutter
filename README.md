@@ -17,3 +17,6 @@ Dart作为开发框架和widget的语言，底层图形框架和Dart虚拟机在
 ## 学习Flutter需要具备的哪些必备知识？
 * Dart语言基础
 * JAVA和Andriod开发经验 非必须
+## Flutter学习资料地址
+* flutter中文网： https://flutterchina.club/
+* Flutter实战： https://book.flutterchina.club/
